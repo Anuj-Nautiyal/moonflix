@@ -1,0 +1,16 @@
+<svg width="300" height="100" viewBox="0 0 300 100" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="moonGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#E2E8F0;" />
+      <stop offset="100%" style="stop-color:#9CA3AF;" />
+    </linearGradient>
+  </defs>
+
+  <rect x="0" y="3" width="300" height="100" fill="#1A202C"/>
+
+  <path d="M 50 20 A 25 25 0 0 0 50 80 A 18 25 0 1 1 50 20 Z" fill="url(#moonGradient)"/>
+
+  <text x="65" y="62" font-family="Verdana, sans-serif" font-size="45" font-weight="bold" fill="#E2E8F0">
+    Moon<tspan fill="#38B2AC">flix</tspan>
+  </text>
+</svg>
